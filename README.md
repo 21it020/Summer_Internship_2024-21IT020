@@ -3,9 +3,9 @@
 
 
 Week 1:
-• SDLC : Introduction of SDLC , 3 Tier architecture etc.
-• Java : Learn About Basic Java Operators,Looping Statement.
-• SQL : Introduction , Types DBMS, RDBMS.
+  • SDLC : Introduction of SDLC , 3 Tier architecture etc.
+  • Java : Learn About Basic Java Operators,Looping Statement.
+  • SQL : Introduction , Types DBMS, RDBMS.
 
 Week 2 
 SDLC : Different models,Waterfall Model, All the stages of WaterFall
@@ -46,4 +46,11 @@ Using HTML and CSS.
 Week 5:
 • Project : Completed Major Project Music-Player with JSON file. We add all Functionality like
 Sign Up & Loign with Home Page . Liked Song .And submission of it.
+
+
+![image](https://github.com/user-attachments/assets/00829e2d-7821-4574-bf7c-81be2eba599e)
+![image](https://github.com/user-attachments/assets/221bbca0-659c-400d-a2eb-ee0e43a6e0b7)
+![image](https://github.com/user-attachments/assets/2edd26c9-32f0-4624-8a00-d92700d083ca)
+![image](https://github.com/user-attachments/assets/03e94853-d12b-48a5-84f5-ac60add8d0f9)
+
 
