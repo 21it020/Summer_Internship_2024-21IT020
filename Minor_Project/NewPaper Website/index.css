@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    
+}
+header {
+    height: 13vh;
+    width: 100vw;
+    background-color:#153448;
+    display: flex;
+}
+#main_container {
+    height: 87vh;
+    width: 100%;
+    display: flex;
+    background-color: #DFD0B8;
+}
+aside {
+    height: 87vh;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;   
+    background-color: #3C5B6F;
+}
+
+aside > a > button {
+    width: 12vw;
+    height: 45px;
+    font-size: 17px;
+    margin-left: 1.5%;
+    background-color: #DFD0B8;
+    color: black;
+    border-radius: 14px;
+    border: 2px solid 3C5B6F;
+    transition: 300ms;
+}
+
+aside > a > button:hover {
+    background-color: #153448;
+    color: white;
+    cursor: pointer;
+}
+
+#display_container {
+    height: 87vh;
+    width: 80%;
+    overflow: auto;
+}
+#branch_info {
+    height: 15vh;
+    width: 100%;
+    overflow: auto;
+}
+
+section > section > div:last-child {
+    width: 100%;
+}
+
+.logo_section {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_section > i {
+    color: white;
+    font-size: 27px;
+}
+.title_section {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title_section > h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    padding-right: 20%;
+}
+
+#head {
+    height: 50%;
+    width: 80%;
+    font-size: 20px;
+    font-weight: 300;
+    border-bottom: 1px solid;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+ul {
+    width: 80%;
+    height: 50%;
+    list-style: none;
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 40px;
+}
+
+
+#headlines {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 4%;
+}
+
+#headlines > div {
+    width: 40%;
+    background-size: 100%;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+    height: 30vh; 
+}
+
+#headlines > div::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(11, 11, 11, 0.5);
+    border-radius: 10px;
+    z-index: 0;
+}
+
+#headlines > div > h2 {
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    font-size: 18px;
+}
+
+
+
+.styles {
+    width: 100%;
+    display: flex;
+    background-position: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.styles > h1{
+    font-size: 30px;
+}
+
+.styles > div {
+    width: 85%;
+    max-width: 900px;
+    height: 25%; 
+    box-shadow: 0px 0px 10px lightgray;
+    background-color: #948979;
+    
+    margin: 20px 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px; 
+}
+
+.styles > div > h3 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px; 
+    color: wheat; 
+}
+
+.styles > div > img {
+    width: 100%;
+    height: 60%;
+    object-fit: cover; /* Ensure the image covers the area without stretching */
+    margin-bottom: 15px; 
+    border-radius: 10px; 
+}
+
+.styles > div > p {
+    font-size: 14px;
+    text-align: center;
+    color: wheat;  
+    margin-bottom: 20px; 
+    line-height: 1.4; 
+}
+
+.styles > div > a > button {
+    font-size: 14px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #3C5B6F;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+

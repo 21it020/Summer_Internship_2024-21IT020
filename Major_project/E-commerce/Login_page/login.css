@@ -1,0 +1,105 @@
+    @import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Reddit Mono", monospace;
+    
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./bags-with-gifts-top-copy-space.jpg);
+    background-size: cover;
+    backdrop-filter: blur(2px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+section {
+    width: 50%;
+    height: 60%;
+    border-radius: 20px;
+    border: 0.5px solid rgb(138, 138, 138);
+    display: flex;
+    
+}
+
+#Name{
+    width: 40%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    background-image: linear-gradient(to left, #CACCD1  , #F3F4F7);
+    border-radius: 20px;
+    color: black; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#Name>h1{
+    font-size: 50px;
+    font-weight: 300;
+}
+
+form{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+form>h1{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+form>input{
+    width: 70%;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 5px;
+    transition: all 0.3s ease;
+}
+
+form>input:focus {
+    border-bottom: 3.5px solid black; 
+    outline: none; 
+    transform: scale(1.05);
+}
+button{
+    width: 30%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-weight: 400;
+    font-size: 17px;
+    transition: all 300ms;
+}
+button:hover{
+    background-color: transparent;
+    color: black;
+    border: 1.5px solid black;
+    transform: scale(1.1);
+}
+
+form>p{
+    font-weight: 500;
+}
+
+form>a{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}

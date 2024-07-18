@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SonicFlow</title>
+    <link rel="shortcut icon" href="../favicon_io/favicon-32x32.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/app-wa-d53d10572a0e0d37cb8d614a3f177a0c.css?vsn=d" data-purpose="Layout StyleSheet" title="Web Awesome">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-thin.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-regular.css">
+    <link rel="stylesheet" href="./home.css">
+</head>
+<body>
+    <header>
+        <section id="username"></section>
+        <section class="logo">
+            <i class="fa-brands fa-soundcloud"></i>
+            <h1>SonicFlow</h1>
+        </section>
+        <section class="logout-block">
+            <button id="logout">Logout</button>
+        </section>
+    </header>
+    <main id="main-block">
+        <div class="left-div" id="like-block">
+            <div class="library">
+                <h2>Your Library</h2>
+                <i class="fa-solid fa-rectangle-vertical-history"></i>
+            </div>
+            <div class="liked-songs"></div>
+        </div>
+        <div class="right-div" id="main_album_div">
+            <div class="album-heading-library">
+                <h2>All Albums</h2>
+            </div>
+            <div class="albums liked" id="albumdiv"></div>
+        </div>
+        <div class="right-div song-div" id="main_song_div">
+            <div class="songs-heading-library">
+                <i class="fa-duotone fa-circle-chevron-left" style="--fa-primary-color: #ffffff; --fa-secondary-color: #000000;" id="goback"></i>
+                <h2>Songs List</h2>
+            </div>
+            <div class="album-liked" id="songsdiv"></div>
+        </div>
+    </main>
+    <section id="play-block"></section>
+    <script src="./home.js"></script>
+</body>
+</html>

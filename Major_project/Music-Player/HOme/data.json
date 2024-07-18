@@ -1,0 +1,65 @@
+[
+    {
+        "albumname": "Happy-Song",
+        "albumimage" : "../Data/Images/istockphoto-1252120575-1024x1024.jpg",
+        "songs" :[
+            {
+                "songname": "be-happy-190870",
+                "artist" : "DanaMusic",
+                "song" : "../Data/Songs/Happy/be-happy-190870.mp3"
+            },
+            {
+                "songname": "happy-210888",
+                "artist" : "YourTunes",
+                "song" : "../Data/Songs/Happy/happy-210888.mp3"
+            },
+            {
+                "songname": "happy-flowers-playful-cute-xylophone-187119",
+                "artist" : "Lesfm",
+                "song" : "../Data/Songs/Happy/happy-flowers-playful-cute-xylophone-187119.mp3"
+            },
+            {
+                "songname": "happy-holiday-120132",
+                "artist" : "AudioCoffee",
+                "song" : "../Data/Songs/Happy/happy-holiday-120132.mp3"
+            },
+            {
+                "songname": "happy-summer-long-10627",
+                "artist" : "Good_b_Music",
+                "song" : "../Data/Songs/Happy/happy-summer-long-10627.mp3"
+            }
+        ]
+    },
+    {
+        "albumname": "Sad-Song",
+        "albumimage" : "../Data/Images/istockphoto-1309101136-1024x1024.jpg",
+        "songs" :[
+            {
+                "songname": "sad-150144",
+                "artist" : "Music_For_Videos",
+                "song" : "../Data/Songs/Sad/sad-150144.mp3"
+            },
+            {
+                "songname": "sad-moment-sad-and-melancholy-piano-background-music-124488",
+                "artist" : "SoulProudMusic",
+                "song" : "../Data/Songs/Sad/sad-moment-sad-and-melancholy-piano-background-music-124488.mp3"
+            },
+            {
+                "songname": "sad-piano-one-181090",
+                "artist" : "Music_For_Videos",
+                "song" : "../Data/Songs/Sad/sad-piano-one-181090.mp3"
+            },
+            {
+                "songname": "sad-piano-one-181090",
+                "artist" : "Oleksii_Kalyna",
+                "song" : "../Data/Songs/Sad/sad-piano-one-181090.mp3"
+            },
+            {
+                "songname": "sad-violin-165275",
+                "artist" : "Music_For_Videos",
+                "song" : "../Data/Songs/Sad/sad-violin-165275.mp3"
+            }
+        ]
+
+    }
+]
