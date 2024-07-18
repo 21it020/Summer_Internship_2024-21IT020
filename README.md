@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/3dde0bc0-062a-4d8a-8ad1-dab07ba3bf27)
 
 
-Week 2:
+Week 1:
 • SDLC : Introduction of SDLC , 3 Tier architecture etc.
 • Java : Learn About Basic Java Operators,Looping Statement.
 • SQL : Introduction , Types DBMS, RDBMS.
