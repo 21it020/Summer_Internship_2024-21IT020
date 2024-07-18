@@ -4,6 +4,7 @@
 
 Week 1:
   • SDLC : Introduction of SDLC , 3 Tier architecture etc.
+  
   • Java : Learn About Basic Java Operators,Looping Statement.
   • SQL : Introduction , Types DBMS, RDBMS.
 
