@@ -14,7 +14,26 @@ Week 1:
   
   • SQL : Introduction , Types DBMS, RDBMS.
 
-Week 2 
+Week 2
+
+Day 1 to 2
+
+SDLC : Diffrent Types of Model
+JAVA :  Classes, Object
+SQL : DQL introduction.
+
+Day 3 to 4:
+SDLC : Waterfall with 1st two stages.
+JAVA: Constructor, Access Specifier
+SQL: continue DQL.
+
+Day 5 to 6 
+
+SDLC : Waterfall with next stages.
+
+JAVA: Inheritance, Encapsulation
+
+SQL: continue DQ
   
   SDLC : Different models,Waterfall Model, All the stages of WaterFall
 
