@@ -61,6 +61,12 @@ JAVA: Method overloading, Method Overriding.
 
 SQL: DDL, Generalization 
 
+Day 4 to 6: 
+SDLC:V model and prototype model.
+JAVA: SPECIAL OPERTOR, Abstraction
+SQL: Specialization, SubQuerry
+
+
 
 • SDLC : Spiral modal,V model and Prototype model with all the stages of it.
 
