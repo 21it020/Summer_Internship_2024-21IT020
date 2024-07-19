@@ -3,7 +3,9 @@
 
 
 Week 1:
-  
+  Day 1 to 3 days: (15th may to 18th may)
+
+
   • SDLC : Introduction of SDLC , 3 Tier architecture etc.
   
   • Java : Learn About Basic Java Operators,Looping Statement.
