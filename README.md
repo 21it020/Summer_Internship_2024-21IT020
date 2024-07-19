@@ -53,6 +53,15 @@ project using api.
 
 Week 3:
 
+Day 1 to 3:
+SDLC : Spiral Model.
+
+JAVA: Method overloading, Method Overriding.
+
+
+SQL: DDL, Generalization 
+
+
 • SDLC : Spiral modal,V model and Prototype model with all the stages of it.
 
 • Java : : Method Overloading,Methode Overriding,Special Operator,Abstraction
